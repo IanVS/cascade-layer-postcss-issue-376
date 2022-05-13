@@ -1,0 +1,3 @@
+@layer defaults, theme, patterns, components, utilities, overrides;
+
+@import url('default-styles.css') layer(defaults);

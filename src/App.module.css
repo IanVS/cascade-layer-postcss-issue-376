@@ -1,0 +1,5 @@
+@layer components {
+  .App__button {
+    font-size: 12px;
+  }
+}
